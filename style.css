@@ -1,0 +1,35 @@
+body{
+    background-image: url(2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: rgb(189, 109, 5);
+    font-size: 100px;
+}
+h3{
+    color: rgb(223, 197, 164);
+    
+}
+i{
+    padding-left: 5px;
+    color:white;
+}
+.i1
+{
+    font-size: 50px;
+    color:wheat;
+}
+.btn1
+{
+    margin-top: 98%;
+}
+
+#app
+{
+    color: rgb(229, 243, 202);
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+
+}
